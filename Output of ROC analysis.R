@@ -1,3 +1,5 @@
+## First, you need to install this package.
+install.packages("epiR")
 ## calling the epiR library for performing the calculation
 library(epiR)
 
